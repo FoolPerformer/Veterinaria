@@ -15,7 +15,7 @@ Paulo Maturano Gonçalves Ramos - 21.1.8007 - Frontend dev
 # Tecnologias
 
 Python
-MySQL
+<p>MySQL
 
 # Backlog do produto
 
