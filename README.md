@@ -1,6 +1,6 @@
 # Veterinaria
 
-Sistema para gerenciamento da veterinaria "Royal Vet".
+Sistema para gerenciamento da veterinaria "Jardim dos Bichos".
 
 # Descrição
 
@@ -11,6 +11,7 @@ Além das funcionalidades citadas acima, o sistema terá a opção de ver os ani
 # Membros da equipe
 
 Paulo Maturano Gonçalves Ramos - 21.1.8007 - Frontend dev.
+Fernando Figueredo de Mendonça Neto - 21.1.8021 - Backend dev.
 
 # Tecnologias
 
