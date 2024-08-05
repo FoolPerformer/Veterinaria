@@ -38,12 +38,12 @@ Cadastro de Pacientes|
 ||Implementação da API|	|	12|
 ||Criação de banco de dados e tabelas|	|	6|
 ||Validação e testes|	|	4|
-Visualização de Pacientes|	
+Visualização de Pacientes e compras|	
 ||Design da interface|	|	6|
 ||Implementação da API|	| 10|
 ||Integração da interface com a API||	8|
 ||Testes da visualização|	|	4|
-Atualização de Pacientes|	
+Atualização de Pacientes e carrinho|	
 ||Design da interface de edição|	|	7|
 ||Implementação da API|	|	11|
 ||Integração da interface com a API|	|	7|
@@ -53,7 +53,7 @@ Exclusão de Pacientes|
 ||Implementação da API|	|	9|
 ||Integração da interface com a API|	|	6|
 ||Testes da exclusão|	|	4|
-Cadastro de Consultas|
+Cadastro de Consultas finalização de compras|
 ||Design da interface de cadastro|	|	8|
 ||Implementação da API|	|	12|
 ||Criação de banco de dados e tabelas|	|	6|
