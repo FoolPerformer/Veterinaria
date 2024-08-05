@@ -34,11 +34,11 @@ Eu como cliente quero saber quais produtos estão disponíveis para compra.
 |Item de Trabalho|	Responsável|	Estimativa(horas)	|Status |
 | --- | --- | --- | --- |
 |Adicionar funcionalidade de agendamento de consultas| | | |			
-|Design da interface|	|10	|Em andamento|
-|Implementação do backend| |15	|Não iniciado|
-|Integração com o calendário|	|8 |	Não iniciado|
-|Testes| |6	|Não iniciado|
+|Design da interface|	Paulo | |Em andamento|
+|Implementação do backend| Fernando |	|Não iniciado|
+|Integração com o calendário|	| |	Não iniciado|
+|Testes| |	|Não iniciado|
 |Melhorar a seção de perfil do cliente|	 | | |	
-|Design da nova interface| |6 |	Não iniciado|
-|Implementação|	|8	|Não iniciado|
-|Testes	| |4	|Não iniciado|
+|Design da nova interface| | |	Não iniciado|
+|Implementação|	|	|Não iniciado|
+|Testes	| |	|Não iniciado|
