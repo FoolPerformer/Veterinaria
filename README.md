@@ -5,7 +5,7 @@ Sistema para gerenciamento da veterinaria "Jardim dos Bichos".
 # Descrição
 
 O nosso sistema tem como principal objetivo auxiliar o contato do cliente com a veterinária de uma forma mais prática e ágil.
-Nele será possível marcar consultas para o seu pet, realizar o agendamento de exames como raio-x, ultrassom e também destacar os produtos que são comercializados na "Royal Vet".
+Nele será possível marcar consultas para o seu pet, realizar o agendamento de exames como raio-x, ultrassom e também destacar os produtos que são comercializados na "Jardim dos Bichos".
 Além das funcionalidades citadas acima, o sistema terá a opção de ver os animais que estão disponíveis para adoção, apresentando sua idade e sua personalidade.
 
 # Membros da equipe
@@ -29,3 +29,5 @@ Eu como cliente quero saber quais produtos estão disponíveis para compra.
 
 
 # Backlog da sprint
+
+
