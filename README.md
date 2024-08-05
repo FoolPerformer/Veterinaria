@@ -34,7 +34,7 @@ Eu como cliente quero saber quais produtos estão disponíveis para compra.
 |História|	Tarefas|	Responsável|	Estimativa (horas)|
 |------------- | ------------- | ------------- | ------------- |
 Cadastro de Pacientes|	
-||Design da interface|	Maria|	8|
+||Design da interface| |	8|
 ||Implementação da API|	|	12|
 ||Criação de banco de dados e tabelas|	|	6|
 ||Validação e testes|	|	4|
