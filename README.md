@@ -12,7 +12,7 @@ Além das funcionalidades citadas acima, o sistema terá a opção de ver os ani
 Paulo Maturano Gonçalves Ramos - 21.1.8007 - Frontend dev.<br>
 Fernando Figueredo de Mendonça Neto - 21.1.8021 - Backend dev.<br>
 Gabriela Alves Aranda - 19.1.8136 - UI Design, DBA, Backend dev.<br>
-Tobias Agnaldo Ferraz - 21.1.8016 - Full Stack Developer.<br>
+Tobias Agnaldo Ferraz - 21.1.8016 - Full Stack dev.<br>
 
 # Tecnologias
 
