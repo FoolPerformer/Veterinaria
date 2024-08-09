@@ -39,7 +39,7 @@ MySQL
 
 |História|	Tarefas|	Responsável|	Estimativa (horas)|
 |------------- | ------------- | ------------- | ------------- |
-Cadastro de Pacientes|	
+Cadastro de Pacientes com exames agendados e já feitos, além de cuidadosa serem tomados|	
 ||Design da interface| |	8|
 ||Implementação da API|	|	12|
 ||Criação de banco de dados e tabelas|	|	6|
