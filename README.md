@@ -12,7 +12,7 @@ Além das funcionalidades citadas acima, o sistema terá a opção de ver os ani
 Paulo Maturano Gonçalves Ramos - 21.1.8007 - Frontend dev.<br>
 Fernando Figueredo de Mendonça Neto - 21.1.8021 - Backend dev.<br>
 Gabriela Alves Aranda - 19.1.8136 - UI Design, DBA, Backend dev.<br>
-Tobias Agnaldo Ferraz - 21.1.8016 - Full Stack dev.<br>
+Tobias Agnaldo Ferraz - 21.1.8016 - Full Stack Developer.<br>
 
 # Tecnologias
 
@@ -39,22 +39,22 @@ MySQL
 
 |História|	Tarefas|	Responsável|	Estimativa (horas)|
 |------------- | ------------- | ------------- | ------------- |
-Cadastro de Pacientes com exames e consultas agendados e já feitos, além de cuidados a serem tomados|	
+Cadastro de Pacientes|	
 ||Design da interface| |	8|
 ||Implementação da API|	|	12|
 ||Criação de banco de dados e tabelas|	|	6|
 ||Validação e testes|	|	4|
-Visualização de Pacientes com suas informações, pets para adoção  e itens para compra na loja|	
+Visualização de Pacientes e compras|	
 ||Design da interface|	|	6|
 ||Implementação da API|	| 10|
 ||Integração da interface com a API||	8|
 ||Testes da visualização|	|	4|
-Atualização de Pacientes, carrinho de compras e pets para adoção|	
+Atualização de Pacientes e carrinho|	
 ||Design da interface de edição|	|	7|
 ||Implementação da API|	|	11|
 ||Integração da interface com a API|	|	7|
 ||Testes da atualização|	|	4|
-Adição e exclusão de Pacientes, itens da loja e pets para adoção|	
+Exclusão de Pacientes|	
 ||Design da interface para exclusão|	|	5|
 ||Implementação da API|	|	9|
 ||Integração da interface com a API|	|	6|
