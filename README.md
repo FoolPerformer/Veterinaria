@@ -64,3 +64,6 @@ Cadastro de Consultas finalização de compras|
 ||Implementação da API|	|	12|
 ||Criação de banco de dados e tabelas|	|	6|
 ||Validação e testes|	|	4|
+
+#Diagrama de Classes
+[Diagramas de Classe UML.pdf](https://github.com/user-attachments/files/16920166/Diagramas.de.Classe.UML.pdf)
