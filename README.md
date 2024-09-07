@@ -65,5 +65,7 @@ Cadastro de Consultas finalização de compras|
 ||Criação de banco de dados e tabelas|	|	6|
 ||Validação e testes|	|	4|
 
-#Diagrama de Classes
-[Diagramas de Classe UML.pdf](https://github.com/user-attachments/files/16920166/Diagramas.de.Classe.UML.pdf)
+# Diagrama de Classes
+
+![image](https://github.com/user-attachments/assets/ef620023-80be-4793-bb3f-140c65a5267e)
+
