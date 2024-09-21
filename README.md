@@ -69,3 +69,8 @@ Cadastro de Consultas finalização de compras|
 
 ![image](https://github.com/user-attachments/assets/ef620023-80be-4793-bb3f-140c65a5267e)
 
+# Diagramas de Atividade
+
+![WhatsApp Image 2024-09-20 at 18 40 05](https://github.com/user-attachments/assets/8c4abd20-fb02-4a12-8372-696fde7ae200)
+
+
