@@ -69,7 +69,7 @@ Cadastro de Consultas finalização de compras|
 
 ![image](https://github.com/user-attachments/assets/ef620023-80be-4793-bb3f-140c65a5267e)
 
-#diagrama de casos de uso
+# Diagrama de casos de uso
 
 ![WhatsApp Image 2024-09-20 at 22 07 27](https://github.com/user-attachments/assets/edf2f5ba-bb2f-46e3-b657-e1861bb817de)
 
@@ -82,5 +82,6 @@ Cadastro de Consultas finalização de compras|
 ![WhatsApp Image 2024-09-21 at 15 57 16](https://github.com/user-attachments/assets/c314bb06-2295-4b7c-a20e-e89b61bf4712)
 ![WhatsApp Image 2024-09-21 at 16 02 28](https://github.com/user-attachments/assets/b6f0b65d-b3de-4d5b-bb4a-4582c01710b9)
 
-
+# Protótipo
+O protótipo apresenta as telas principais para o usuário. A base do sistema gira entorno de uma landing page, mas para login, agendamento de consultas e visualização de animais que estão para adoção é utilizada novas páginas. O protótipo pode ser acessado através [deste hiperlink](https://www.figma.com/proto/lGZRDJtM2GAkPbEwte5bLK/Veterin%C3%A1ria?node-id=28-120&starting-point-node-id=28%3A120&scaling=scale-down-width&content-scaling=fixed&t=hGFxNnSap3epTp1A-1) diretamente no Figma.
 
