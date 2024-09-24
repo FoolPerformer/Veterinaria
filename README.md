@@ -85,3 +85,4 @@ Cadastro de Consultas finalização de compras|
 # Protótipo
 O protótipo apresenta as telas principais para o usuário. A base do sistema gira entorno de uma landing page, mas para login, agendamento de consultas e visualização de animais que estão para adoção é utilizada novas páginas. O protótipo pode ser acessado através [deste hiperlink](https://www.figma.com/proto/lGZRDJtM2GAkPbEwte5bLK/Veterin%C3%A1ria?node-id=28-120&starting-point-node-id=28%3A120&scaling=scale-down-width&content-scaling=fixed&t=hGFxNnSap3epTp1A-1) diretamente no Figma.
 
+![Tela principal - protótipo](https://github.com/user-attachments/assets/2b919c40-0392-49e0-b834-1ad20cffc0b0)
