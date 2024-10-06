@@ -1,0 +1,471 @@
+.vector-icon {
+    position: absolute;
+    top: 605px;
+    left: -1px;
+    width: 1920px;
+    height: 297px;
+    display: none;
+}
+.login01-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #0ca59b;
+    width: 1920px;
+    height: 119px;
+}
+.jardim-dos-bichos {
+    position: absolute;
+    top: 61.58%;
+    left: 0%;
+    font-weight: 300;
+}
+.sem-ttulo-2-traced {
+    position: absolute;
+    height: 54.43%;
+    width: 37.95%;
+    top: 0%;
+    right: 30.89%;
+    bottom: 45.57%;
+    left: 31.16%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.clnica-veterinria {
+    position: absolute;
+    top: 107%;
+    left: 23.96%;
+    font-size: 7.95px;
+    font-weight: 500;
+    font-family: Montserrat;
+}
+.logo-branca {
+    position: absolute;
+    top: 15px;
+    left: 430px;
+    width: 145.2px;
+    height: 88px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 17.9px;
+    color: #fff;
+    font-family: Fredoka;
+}
+.incio {
+    width: 61px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.incio-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 12px;
+    cursor: pointer;
+}
+.servios {
+    width: 90px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.produtos {
+    width: 103px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.produtos-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 12px;
+}
+.adoo {
+    position: relative;
+    font-weight: 600;
+}
+.contato {
+    width: 87px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.vector-icon1 {
+    width: 21.3px;
+    position: relative;
+    height: 21.3px;
+}
+.icbaseline-account-circle {
+    width: 26px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.icbaseline-account-circle-parent {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);
+    border-radius: 12px;
+    border: 1px solid #fff;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 6px 18px;
+    gap: 8px;
+    text-align: left;
+}
+.mdicart-outline-icon {
+    width: 29px;
+    position: relative;
+    height: 29px;
+}
+.frame-parent {
+    position: absolute;
+    top: 41px;
+    left: 680px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25px;
+    text-align: center;
+    color: #fff;
+}
+.entrar {
+    position: relative;
+}
+.entrar-wrapper {
+    position: absolute;
+    top: 484px;
+    left: calc(50% - 382.5px);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+    background-color: #f2c930;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 35px;
+    color: #fff;
+}
+.login1 {
+    position: absolute;
+    top: 194px;
+    left: calc(50% - 529px);
+    font-size: 32px;
+    font-family: Fredoka;
+    color: #0ca59b;
+}
+.e-mail {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.e-mail-ou-nome {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: 11px;
+}
+.e-mail-ou-nome-de-usurio-wrapper {
+    position: absolute;
+    top: 39px;
+    left: 0px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 430px;
+    height: 40px;
+    overflow: hidden;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.e-mail-parent {
+    position: absolute;
+    top: 271px;
+    left: 430px;
+    width: 430px;
+    height: 79px;
+}
+.group-child {
+    position: absolute;
+    top: 39px;
+    left: 0px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 430px;
+    height: 40px;
+    overflow: hidden;
+}
+.senha-parent {
+    position: absolute;
+    top: 367px;
+    left: 430px;
+    width: 430px;
+    height: 79px;
+}
+.cadastrar-wrapper {
+    position: absolute;
+    top: 673px;
+    left: calc(50% + 224px);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+    background-color: #f2c930;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 35px;
+    color: #fff;
+}
+.cadastro-novo {
+    position: absolute;
+    top: 194px;
+    left: calc(50% + 100px);
+    font-size: 32px;
+    font-family: Fredoka;
+    color: #0ca59b;
+}
+.nome-parent {
+    position: absolute;
+    top: 271px;
+    left: 1060px;
+    width: 430px;
+    height: 79px;
+}
+.e-mail-group {
+    position: absolute;
+    top: 367px;
+    left: 1060px;
+    width: 430px;
+    height: 79px;
+}
+.senha-group {
+    position: absolute;
+    top: 464px;
+    left: 1060px;
+    width: 430px;
+    height: 79px;
+}
+.confirme-sua-senha-parent {
+    position: absolute;
+    top: 560px;
+    left: 1060px;
+    width: 430px;
+    height: 79px;
+}
+.login01-item {
+    position: absolute;
+    top: 224.5px;
+    left: 959.5px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 388px;
+}
+.final-child {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 959.79px);
+    background-color: #0ca59b;
+    width: 1920px;
+    height: 240px;
+}
+.sem-ttulo-2-traced1 {
+    position: absolute;
+    height: 54.43%;
+    width: 37.93%;
+    top: 0%;
+    right: 30.91%;
+    bottom: 45.57%;
+    left: 31.16%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.clnica-veterinria1 {
+    position: absolute;
+    top: 107%;
+    left: 24.66%;
+    font-size: 12.44px;
+    font-weight: 500;
+    font-family: Montserrat;
+}
+.logo-branca1 {
+    position: absolute;
+    bottom: 69.4px;
+    left: calc(50% - 588.79px);
+    width: 227px;
+    height: 137.6px;
+    font-size: 27.99px;
+    font-family: Fredoka;
+}
+.final-item {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 960.5px);
+    background-color: #d9d9d9;
+    width: 1921px;
+    height: 37px;
+}
+.todos-os-direitos {
+    position: absolute;
+    bottom: 7.21px;
+    left: calc(50% - 314.71px);
+    font-size: 16px;
+    color: #000;
+}
+.endereo1 {
+    position: absolute;
+    bottom: 43px;
+    left: calc(50% - 135.5px);
+    font-weight: 600;
+}
+.av-wilson-alvarenga {
+    margin: 0;
+}
+.av-wilson-alvarenga-container {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 135.5px);
+    font-size: 16px;
+    text-align: left;
+}
+.endereo {
+    position: absolute;
+    bottom: 106px;
+    left: calc(50% - 311.79px);
+    width: 271px;
+    height: 65px;
+}
+.horrio-de-atendimento {
+    position: absolute;
+    bottom: 43px;
+    left: calc(50% - 111.5px);
+    font-weight: 600;
+}
+.seg-sex-8h-container {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 111.5px);
+    font-size: 16px;
+    text-align: left;
+}
+.horrio {
+    position: absolute;
+    bottom: 106px;
+    left: calc(50% + 9.21px);
+    width: 223px;
+    height: 65px;
+}
+.contato1 {
+    position: absolute;
+    bottom: 73px;
+    left: calc(50% - 153.5px);
+    font-weight: 600;
+}
+.mdiphone-icon {
+    position: absolute;
+    bottom: 1px;
+    left: calc(50% - 72.25px);
+    width: 18px;
+    height: 18px;
+    overflow: hidden;
+}
+.div {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 48.25px);
+    display: inline-block;
+    width: 120.5px;
+}
+.mdiphone-parent {
+    position: absolute;
+    bottom: 46px;
+    left: calc(50% - 153.5px);
+    width: 144.5px;
+    height: 20px;
+}
+.div1 {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 59.65px);
+    display: inline-block;
+    width: 143.3px;
+}
+.mdiwhatsapp-icon {
+    position: absolute;
+    bottom: 1px;
+    left: calc(50% - 83.65px);
+    width: 18px;
+    height: 18px;
+    overflow: hidden;
+}
+.parent {
+    position: absolute;
+    bottom: 23px;
+    left: calc(50% - 153.5px);
+    width: 167.3px;
+    height: 20px;
+}
+.atendimentojardimdosbichosco {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 153.5px);
+    display: inline-block;
+    width: 307px;
+}
+.group-parent {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 153.5px);
+    width: 307px;
+    height: 66px;
+    font-size: 16px;
+}
+.telefones {
+    position: absolute;
+    bottom: 91px;
+    left: calc(50% + 282.21px);
+    width: 307px;
+    height: 95px;
+    text-align: left;
+}
+.final {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 961px);
+    width: 1921px;
+    height: 240px;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+}
+.login01-inner {
+    position: absolute;
+    top: 591px;
+    left: 1439px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.login01 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1123px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 20px;
+    color: #000;
+    font-family: Montserrat;
+}
+
