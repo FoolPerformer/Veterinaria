@@ -1,0 +1,1137 @@
+.vector-icon {
+    position: absolute;
+    top: 605px;
+    left: -1px;
+    width: 1920px;
+    height: 297px;
+    display: none;
+}
+.tela-principal-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #0ca59b;
+    width: 1920px;
+    height: 119px;
+}
+.jardim-dos-bichos {
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    font-weight: 500;
+}
+.sem-ttulo-2-traced {
+    position: absolute;
+    height: 54.43%;
+    width: 37.95%;
+    top: 0%;
+    right: 30.89%;
+    bottom: 45.57%;
+    left: 31.16%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.clnica-veterinria {
+    position: absolute;
+    top: 88.7%;
+    left: 23.96%;
+    font-size: 7.95px;
+    font-weight: 500;
+    font-family: Montserrat;
+}
+.logo-branca {
+    position: absolute;
+    top: 15px;
+    left: 430px;
+    width: 145.2px;
+    height: 88px;
+    font-size: 17.9px;
+    font-family: Fredoka;
+}
+.incio {
+    width: 61px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.incio-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 12px;
+}
+.servios {
+    width: 90px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.servios-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 12px;
+    cursor: pointer;
+}
+.produtos {
+    width: 103px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.adoo {
+    position: relative;
+    font-weight: 600;
+}
+.contato {
+    width: 87px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.vector-icon1 {
+    width: 21.3px;
+    position: relative;
+    height: 21.3px;
+}
+.icbaseline-account-circle {
+    width: 26px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.icbaseline-account-circle-parent {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);
+    border-radius: 12px;
+    border: 1px solid #fff;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 6px 18px;
+    gap: 8px;
+    cursor: pointer;
+    text-align: left;
+}
+.mdicart-outline-icon {
+    width: 29px;
+    position: relative;
+    height: 29px;
+}
+.frame-parent {
+    position: absolute;
+    top: 41px;
+    left: 680px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25px;
+    font-size: 20px;
+}
+.female-veterinarian-with-dog {
+    position: absolute;
+    top: 234px;
+    left: 1043px;
+    width: 446.6px;
+    height: 310px;
+    object-fit: cover;
+}
+.bem-vindo {
+    margin: 0;
+}
+.bem-vindo-container {
+    position: absolute;
+    top: 199px;
+    left: 430px;
+    font-size: 55px;
+    line-height: 65px;
+    font-weight: 600;
+    font-family: Fredoka;
+    color: #0ca59b;
+    text-align: left;
+}
+.agende-uma-consulta {
+    position: relative;
+}
+.agende-uma-consulta-wrapper {
+    position: absolute;
+    top: 467px;
+    left: 430px;
+    border-radius: 80px;
+    background-color: #e9bd1b;
+    width: 340px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 13px 36px;
+    box-sizing: border-box;
+    cursor: pointer;
+    text-align: left;
+    font-size: 24px;
+}
+.lorem-ipsum-dolor {
+    position: absolute;
+    top: 355px;
+    left: 430px;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+    color: #000;
+    text-align: left;
+    display: inline-block;
+    width: 430px;
+}
+.final-child {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 959.99px);
+    background-color: #0ca59b;
+    width: 1920px;
+    height: 240px;
+}
+.sem-ttulo-2-traced1 {
+    position: absolute;
+    height: 54.43%;
+    width: 37.93%;
+    top: 0%;
+    right: 30.91%;
+    bottom: 45.57%;
+    left: 31.16%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.clnica-veterinria1 {
+    position: absolute;
+    top: 88.7%;
+    left: 24.66%;
+    font-size: 12.44px;
+    font-weight: 500;
+    font-family: Montserrat;
+}
+.logo-branca1 {
+    position: absolute;
+    bottom: 69.4px;
+    left: calc(50% - 588.99px);
+    width: 227px;
+    height: 137.6px;
+    cursor: pointer;
+    font-size: 27.99px;
+    font-family: Fredoka;
+}
+.final-item {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 1044.7px);
+    background-color: #d9d9d9;
+    width: 2089.4px;
+    height: 37px;
+}
+.todos-os-direitos {
+    position: absolute;
+    bottom: 7.21px;
+    left: calc(50% - 314.91px);
+    font-size: 16px;
+    color: #000;
+}
+.endereo1 {
+    position: absolute;
+    bottom: 43px;
+    left: calc(50% - 135.5px);
+    font-weight: 600;
+}
+.av-wilson-alvarenga-container {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 135.5px);
+    font-size: 16px;
+    text-align: left;
+}
+.endereo {
+    position: absolute;
+    bottom: 106px;
+    left: calc(50% - 311.99px);
+    width: 271px;
+    height: 65px;
+}
+.horrio-de-atendimento {
+    position: absolute;
+    bottom: 43px;
+    left: calc(50% - 111.5px);
+    font-weight: 600;
+}
+.seg-sex-8h-container {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 111.5px);
+    font-size: 16px;
+    text-align: left;
+}
+.horrio {
+    position: absolute;
+    bottom: 106px;
+    left: calc(50% + 9.01px);
+    width: 223px;
+    height: 65px;
+}
+.contato1 {
+    position: absolute;
+    bottom: 73px;
+    left: calc(50% - 153.5px);
+    font-weight: 600;
+}
+.mdiphone-icon {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    width: 18px;
+    height: 18px;
+    overflow: hidden;
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: 24px;
+    display: inline-block;
+    width: 120.5px;
+}
+.mdiphone-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 144.5px;
+    height: 20px;
+}
+.div1 {
+    position: absolute;
+    top: 0px;
+    left: 24px;
+    display: inline-block;
+    width: 143.3px;
+}
+.parent {
+    position: absolute;
+    top: 23px;
+    left: 0px;
+    width: 167.3px;
+    height: 20px;
+}
+.atendimentojardimdosbichosco {
+    position: absolute;
+    top: 46px;
+    left: 0px;
+    display: inline-block;
+    width: 307px;
+}
+.group-parent {
+    position: absolute;
+    top: 29px;
+    left: 0px;
+    width: 307px;
+    height: 66px;
+    font-size: 16px;
+}
+.telefones {
+    position: absolute;
+    bottom: 91px;
+    left: calc(50% + 282.01px);
+    width: 307px;
+    height: 95px;
+    text-align: left;
+}
+.final {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 1044.71px);
+    width: 2089.4px;
+    height: 240px;
+    font-size: 18px;
+}
+.nossos-servios-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1149px;
+}
+.nossos-servios1 {
+    position: absolute;
+    top: 156px;
+    left: 500px;
+    font-weight: 600;
+    font-family: Fredoka;
+    display: inline-block;
+    width: 920px;
+}
+.lorem-ipsum-dolor1 {
+    position: absolute;
+    top: 227px;
+    left: 590px;
+    font-size: 18px;
+    line-height: 28px;
+    display: inline-block;
+    width: 740px;
+}
+.close-up-on-veterinarian-takin {
+    position: absolute;
+    top: 20.84px;
+    left: calc(50% - 125.54px);
+    width: 251.1px;
+    height: 166.9px;
+    object-fit: cover;
+}
+.petshop {
+    position: absolute;
+    top: 199.92px;
+    left: 99.49px;
+}
+.lorem-ipsum-dolor2 {
+    position: absolute;
+    top: 232.13px;
+    left: calc(50% - 98.06px);
+    font-size: 13.26px;
+    line-height: 22.74px;
+    color: #000;
+    text-align: justify;
+    display: inline-block;
+    width: 197.1px;
+}
+.close-up-on-veterinarian-takin-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 22.74px;
+    background-color: #47e0d6;
+    width: 281.4px;
+    height: 322.1px;
+    overflow: hidden;
+}
+.animais-para-adoo {
+    position: absolute;
+    top: 199.92px;
+    left: 36.95px;
+}
+.unsplashzwoqd6ffcbs-icon {
+    position: absolute;
+    top: 20.84px;
+    left: 15.16px;
+    width: 251.1px;
+    height: 166.8px;
+    object-fit: cover;
+}
+.close-up-on-veterinarian-takin-group {
+    position: absolute;
+    top: 0px;
+    left: 319.3px;
+    border-radius: 22.74px;
+    background-color: #f2c930;
+    width: 281.4px;
+    height: 322.1px;
+    overflow: hidden;
+}
+.cirurgias {
+    position: absolute;
+    top: 199.92px;
+    left: 95.7px;
+}
+.close-up-on-veterinarian-takin3 {
+    position: absolute;
+    top: 20.84px;
+    left: 15.16px;
+    width: 251.1px;
+    height: 166.9px;
+    object-fit: cover;
+}
+.close-up-on-veterinarian-takin-container {
+    position: absolute;
+    top: 0px;
+    left: 638.6px;
+    border-radius: 22.74px;
+    background-color: #47e0d6;
+    width: 281.4px;
+    height: 322.1px;
+    overflow: hidden;
+}
+.servios-baixo {
+    position: absolute;
+    top: 342.25px;
+    left: 0px;
+    width: 920px;
+    height: 322.1px;
+}
+.consultas-veterinrias {
+    position: absolute;
+    top: 199.92px;
+    left: 29.37px;
+}
+.frame-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 22.74px;
+    background-color: #f2c930;
+    width: 281.4px;
+    height: 322.1px;
+    overflow: hidden;
+}
+.exames-laboratoriais {
+    position: absolute;
+    top: 199.92px;
+    left: 37.9px;
+}
+.close-up-on-veterinarian-takin-parent1 {
+    position: absolute;
+    top: 0px;
+    left: 319.3px;
+    border-radius: 22.74px;
+    background-color: #47e0d6;
+    width: 281.4px;
+    height: 322.1px;
+    overflow: hidden;
+}
+.raio-x-e {
+    position: absolute;
+    top: 199.92px;
+    left: 47.37px;
+}
+.lorem-ipsum-dolor7 {
+    position: absolute;
+    top: 232.13px;
+    left: calc(50% - 99.01px);
+    font-size: 13.26px;
+    line-height: 22.74px;
+    color: #000;
+    text-align: justify;
+    display: inline-block;
+    width: 197.1px;
+}
+.close-up-on-veterinarian-takin-parent2 {
+    position: absolute;
+    top: 0px;
+    left: 638.6px;
+    border-radius: 22.74px;
+    background-color: #f2c930;
+    width: 281.4px;
+    height: 322.1px;
+    overflow: hidden;
+}
+.servios-cima {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 920px;
+    height: 322.1px;
+}
+.servios-card {
+    position: absolute;
+    top: 343px;
+    left: 500px;
+    filter: drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.3));
+    width: 920px;
+    height: 664.4px;
+    font-size: 18.95px;
+}
+.nossos-servios {
+    position: absolute;
+    top: 623px;
+    left: 0px;
+    width: 1920px;
+    height: 1149px;
+}
+.close-up-on-veterinarian-takin8 {
+    position: absolute;
+    top: 24.02px;
+    left: calc(50% - 144.63px);
+    width: 289.4px;
+    height: 192.3px;
+    object-fit: cover;
+}
+.pitoco-2-anos {
+    position: absolute;
+    top: 230.34px;
+    left: 48.84px;
+}
+.lorem-ipsum-dolor8 {
+    position: absolute;
+    top: 267px;
+    left: calc(50% - 113.1px);
+    font-size: 15.28px;
+    line-height: 26.2px;
+    color: #000;
+    text-align: justify;
+    display: inline-block;
+    width: 227px;
+    height: 299px;
+}
+.close-up-on-veterinarian-takin-parent3 {
+    position: absolute;
+    top: 95px;
+    left: 0px;
+    border-radius: 26.2px;
+    background-color: #f2c930;
+    width: 324.2px;
+    height: 602.6px;
+    overflow: hidden;
+}
+.jos-1-ano {
+    position: absolute;
+    top: 230.34px;
+    left: 67.67px;
+}
+.close-up-on-veterinarian-takin-parent4 {
+    position: absolute;
+    top: 95px;
+    left: 367px;
+    border-radius: 26.2px;
+    background-color: #47e0d6;
+    width: 324.2px;
+    height: 602.6px;
+    overflow: hidden;
+}
+.close-up-on-veterinarian-takin10 {
+    position: absolute;
+    top: 24.02px;
+    left: 17.47px;
+    width: 289.4px;
+    height: 192.3px;
+    object-fit: cover;
+}
+.vivi-8-meses {
+    position: absolute;
+    top: 230.34px;
+    left: 32.58px;
+}
+.lorem-ipsum-dolor10 {
+    position: absolute;
+    top: 267px;
+    left: calc(50% - 114.1px);
+    font-size: 15.28px;
+    line-height: 26.2px;
+    color: #000;
+    text-align: justify;
+    display: inline-block;
+    width: 227px;
+    height: 299px;
+}
+.close-up-on-veterinarian-takin-parent5 {
+    position: absolute;
+    top: 95px;
+    left: 734px;
+    border-radius: 26.2px;
+    background-color: #f2c930;
+    width: 324.2px;
+    height: 602.6px;
+    overflow: hidden;
+}
+.bento-3-anos {
+    position: absolute;
+    top: 230.34px;
+    left: 35.67px;
+}
+.close-up-on-veterinarian-takin-parent6 {
+    position: absolute;
+    top: 95px;
+    left: 1101px;
+    border-radius: 26.2px;
+    background-color: #47e0d6;
+    width: 324.2px;
+    height: 602.6px;
+    overflow: hidden;
+}
+.depoimentos-dos-nossos {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 236.6px);
+    font-size: 32px;
+    font-weight: 600;
+    font-family: Fredoka;
+    color: #0ca59b;
+}
+.feedback {
+    position: absolute;
+    top: 1810px;
+    left: 247px;
+    width: 1425.2px;
+    height: 697.6px;
+    font-size: 21.83px;
+}
+.adoo-child {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #fbe38c;
+    width: 1920px;
+    height: 1051px;
+}
+.no-compre-adote {
+    position: absolute;
+    bottom: 971px;
+    left: 473px;
+    font-weight: 600;
+    font-family: Fredoka;
+}
+.lorem-ipsum-dolor12 {
+    position: absolute;
+    bottom: 866px;
+    left: calc(50% - 487px);
+    font-size: 18px;
+    line-height: 28px;
+    color: #000;
+    text-align: justify;
+    display: inline-block;
+    width: 950px;
+}
+.animais-disponveis-para-ado-wrapper {
+    position: absolute;
+    bottom: 52px;
+    left: calc(50% - 241px);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+    background-color: #0ca59b;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 35px;
+    cursor: pointer;
+    text-align: left;
+    font-size: 24px;
+    color: #fff;
+}
+.closeup-shot-of-one-ginger-cat {
+    width: 473.5px;
+    position: relative;
+    height: 316.1px;
+    object-fit: cover;
+}
+.view-of-adorable-chihuahua-dog {
+    width: 475px;
+    position: relative;
+    height: 316.4px;
+    object-fit: cover;
+}
+.adorable-brown-and-white-basen {
+    width: 474.4px;
+    position: relative;
+    height: 316px;
+    object-fit: cover;
+}
+.closeup-shot-of-guinea-pig-iso {
+    width: 497px;
+    position: relative;
+    height: 316.8px;
+    object-fit: cover;
+}
+.pexels-photo-by-petrebels {
+    width: 473px;
+    position: relative;
+    height: 315.3px;
+    object-fit: cover;
+}
+.adorable-cat-lifestyle {
+    width: 475px;
+    position: relative;
+    height: 316px;
+    object-fit: cover;
+}
+.gray-kitty-with-monochrome-wal {
+    width: 497px;
+    position: relative;
+    height: 316px;
+    object-fit: cover;
+}
+.closeup-shot-of-one-ginger-cat-parent {
+    position: absolute;
+    bottom: 189.2px;
+    left: calc(50% - 960px);
+    width: 1919.9px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 0px;
+}
+.adoo1 {
+    position: absolute;
+    bottom: 918px;
+    left: 0px;
+    width: 1920px;
+    height: 1051px;
+    color: #0ca59b;
+}
+.enviar-mensagem-wrapper {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% + 185.5px);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+    background-color: #f2c930;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 35px;
+    color: #fff;
+}
+.lorem-ipsum-dolor13 {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 215px);
+    line-height: 26.2px;
+    display: inline-block;
+    width: 430px;
+}
+.contato3 {
+    position: absolute;
+    bottom: 204px;
+    left: calc(50% - 214px);
+    font-size: 32px;
+    font-family: Fredoka;
+    color: #0ca59b;
+    text-align: left;
+}
+.lorem-ipsum-dolor-sit-amet-con-parent {
+    position: absolute;
+    bottom: 246px;
+    left: calc(50% - 530.5px);
+    width: 430px;
+    height: 243px;
+    text-align: justify;
+    font-size: 18px;
+}
+.e-mail {
+    position: absolute;
+    bottom: 55px;
+    left: 0px;
+}
+.aquele-que-voc {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: 11px;
+}
+.aquele-que-voc-mais-usa-wrapper {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 430px;
+    height: 40px;
+    overflow: hidden;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.e-mail-parent {
+    position: absolute;
+    bottom: 381px;
+    left: 631px;
+    width: 430px;
+    height: 79px;
+}
+.nome {
+    position: absolute;
+    bottom: 55px;
+    left: 0px;
+    display: inline-block;
+    width: 76px;
+}
+.nome-parent {
+    position: absolute;
+    bottom: 285px;
+    left: 631px;
+    width: 430px;
+    height: 79px;
+}
+.mensagem {
+    position: absolute;
+    bottom: 161px;
+    left: 0px;
+}
+.motivo-do-contato {
+    position: absolute;
+    top: 9px;
+    left: 11px;
+    display: inline-block;
+    width: 391px;
+}
+.motivo-do-contato-seja-elogio-wrapper {
+    position: absolute;
+    bottom: -1px;
+    left: 0px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 431px;
+    height: 147px;
+    overflow: hidden;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.mensagem-parent {
+    position: absolute;
+    bottom: 82px;
+    left: 631px;
+    width: 430px;
+    height: 185px;
+}
+.contato2 {
+    position: absolute;
+    bottom: 350px;
+    left: calc(50% - 531px);
+    width: 1061px;
+    height: 489px;
+    text-align: left;
+    font-size: 20px;
+    color: #000;
+}
+.produtos-em-destaque-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1920px;
+    height: 69px;
+}
+.produtos-em-destaque1 {
+    position: absolute;
+    top: 16px;
+    left: 376px;
+    font-weight: 600;
+}
+.produtos-em-destaque {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 69px;
+}
+.mdiarrow-right-drop-circle-ou-icon {
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.mdiarrow-left-drop-circle-out-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.setas-produtos {
+    position: absolute;
+    top: 677px;
+    left: 880px;
+    width: 160px;
+    height: 60px;
+}
+.image-2-icon {
+    position: absolute;
+    top: 367px;
+    left: 282px;
+    width: 554px;
+    height: 554px;
+    object-fit: cover;
+}
+.icon {
+    position: absolute;
+    top: 19px;
+    left: 48px;
+    width: 228px;
+    height: 228px;
+    object-fit: cover;
+}
+.rao-para-gato {
+    position: absolute;
+    top: 269px;
+    left: 26px;
+    font-weight: 500;
+    display: inline-block;
+    width: 273px;
+}
+.r-12099 {
+    position: absolute;
+    top: 341px;
+    left: 91px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.comprar {
+    position: absolute;
+    top: 6px;
+    left: 60px;
+    font-weight: 600;
+}
+.comprar-wrapper {
+    position: absolute;
+    top: 407px;
+    left: 57px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+    background-color: #f2c930;
+    width: 210px;
+    height: 36px;
+    font-size: 20px;
+    color: #fff;
+}
+.image-2-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.31);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 325px;
+    height: 473px;
+    overflow: hidden;
+}
+.halteres-para-ces {
+    position: absolute;
+    top: 269px;
+    left: 43px;
+    font-weight: 500;
+}
+.r-1099 {
+    position: absolute;
+    top: 341px;
+    left: 99px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.image-2-group {
+    position: absolute;
+    top: 0px;
+    left: 340px;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.31);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 325px;
+    height: 473px;
+    overflow: hidden;
+}
+.r-1599 {
+    position: absolute;
+    top: 341px;
+    left: 101px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.image-2-container {
+    position: absolute;
+    top: 0px;
+    left: 680px;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.31);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 325px;
+    height: 473px;
+    overflow: hidden;
+}
+.r-1999 {
+    position: absolute;
+    top: 341px;
+    left: 100px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.image-2-parent1 {
+    position: absolute;
+    top: 0px;
+    left: 1020px;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.31);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 325px;
+    height: 473px;
+    overflow: hidden;
+}
+.r-2899 {
+    position: absolute;
+    top: 341px;
+    left: 96px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.image-2-parent2 {
+    position: absolute;
+    top: 0px;
+    left: 1360px;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.31);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 325px;
+    height: 473px;
+    overflow: hidden;
+}
+.image-2-parent3 {
+    position: absolute;
+    top: 0px;
+    left: 1700px;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.31);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 325px;
+    height: 473px;
+    overflow: hidden;
+}
+.frame-group {
+    position: absolute;
+    top: 146px;
+    left: calc(50% - 843px);
+    box-shadow: -2px -2px 6px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1685px;
+    height: 473px;
+    overflow-x: auto;
+    text-align: center;
+    font-size: 18px;
+    color: #000;
+    font-family: Montserrat;
+}
+.produtos1 {
+    position: absolute;
+    top: 2583px;
+    left: 0px;
+    width: 1920px;
+    height: 737px;
+    text-align: left;
+    color: #0ca59b;
+    font-family: Fredoka;
+}
+.mdiarrow-up-bold-circle-outli-icon {
+    position: absolute;
+    top: 1112px;
+    left: 1700px;
+    width: 86px;
+    height: 86px;
+    overflow-y: auto;
+    cursor: pointer;
+}
+.tela-principal {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 5351px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 32px;
+    color: #fff;
+    font-family: Montserrat;
+}
+
