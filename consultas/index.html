@@ -34,7 +34,7 @@
 			<div class="incio-wrapper" id="frameContainer1">
 				<div class="servios">Serviços</div>
 			</div>
-			<div class="produtos-wrapper">
+			<div class="produtos-wrapper"id="frameContainer2">
 				<div class="produtos">Produtos</div>
 			</div>
 			<div class="incio-wrapper" id="frameContainer3">
@@ -158,7 +158,7 @@
 
 
 	<script>
-		var logoBrancaContainer = document.getElementById("logoBrancaContainer"); 
+		var logoBrancaContainer = document.getElementById("logoBrancaContainer");
 		if (logoBrancaContainer) {
 			logoBrancaContainer.addEventListener("click", function (e) {
 				window.location.href = "../principal/index.htm";
@@ -174,12 +174,10 @@
 
 
 
-		var frameContainer1 = document.getElementById("frameContainer1"); //produtos
-		if (frameContainer1) {
-			frameContainer1.addEventListener("click", function (e) {
+		var frameContainer2 = document.getElementById("frameContainer2"); //produtos
+		if (frameContainer2) {
+			frameContainer2.addEventListener("click", function (e) {
 				window.location.href = "../principal/index.htm";
-			});
-			frameContainer1.addEventListener("click", function (e) {
 				var anchor = document.querySelector("[data-scroll-to='nossosServiosContainer']");
 				if (anchor) {
 					anchor.scrollIntoView({ "block": "start", "behavior": "smooth" })
