@@ -167,6 +167,15 @@
 .agende-uma-consulta {
     position: relative;
 }
+.enviar-mensagem{
+    position: relative;
+    background-color: #f2c930;
+    border: none;
+}
+.enviar-mensagem:hover,
+.enviar-mensagem:focus {
+    background-color: #f2c930;
+}
 .agende-uma-consulta-wrapper {
     position: absolute;
     top: 467px;
