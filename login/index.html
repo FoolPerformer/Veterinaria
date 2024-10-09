@@ -98,8 +98,9 @@
 				</div>
 			</div>
 			<div class="confirme-sua-senha-parent">
+				<b class="e-mail">Confirme sua senha</b>
 				<div class="group-child">
-					<input type="conpassword" id_consenha="conpass" name="conpassword" minlength="8" required
+					<input type="password" id_consenha="conpass" name="conpassword" minlength="8" required
 						style="width: 430px;height:40px;" />
 				</div>
 			</div>
@@ -164,14 +165,14 @@
 		var logoBrancaContainer = document.getElementById("logoBrancaContainer");
 		if (logoBrancaContainer) {
 			logoBrancaContainer.addEventListener("click", function (e) {
-				window.location.href = "../principal/index.htm";
+				window.location.href = "../principal/index.html";
 			});
 		}
 
 		var frameContainer = document.getElementById("frameContainer");
 		if (frameContainer) {
 			frameContainer.addEventListener("click", function (e) {
-				window.location.href = "../principal/index.htm";
+				window.location.href = "../principal/index.html";
 			});
 		}
 
@@ -185,7 +186,7 @@
 		var frameContainer2 = document.getElementById("frameContainer2"); //produtos
 		if (frameContainer2) {
 			frameContainer2.addEventListener("click", function (e) {
-				window.location.href = "../principal/index.htm";
+				window.location.href = "../principal/index.html";
 				var anchor = document.querySelector("[data-scroll-to='nossosServiosContainer']");
 				if (anchor) {
 					anchor.scrollIntoView({ "block": "start", "behavior": "smooth" })
