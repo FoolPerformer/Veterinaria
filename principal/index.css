@@ -182,7 +182,8 @@
     box-sizing: border-box;
     cursor: pointer;
     text-align: left;
-    font-size: 24px;
+    font-size: 20px;
+    gap: 10px;
 }
 .lorem-ipsum-dolor {
     position: absolute;
@@ -1119,9 +1120,9 @@
     font-family: Fredoka;
 }
 .mdiarrow-up-bold-circle-outli-icon {
-    position: absolute;
-    top: 1112px;
-    left: 1700px;
+    position: fixed; 
+    bottom: 40px;
+    right: 40px;
     width: 86px;
     height: 86px;
     overflow-y: auto;
