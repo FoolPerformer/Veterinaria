@@ -69,7 +69,8 @@ DROP TABLE IF EXISTS estoque CASCADE;
 CREATE TABLE IF NOT EXISTS estoque
 (
 	produto "varchar",
-	quantidade integer
+	quantidade integer,
+	valor float
 );
 
 DROP TABLE IF EXISTS adocao CASCADE;
@@ -79,6 +80,30 @@ CREATE TABLE IF NOT EXISTS adocao
 	espécie "varchar"
 );
 
+DROP TABLE IF EXISTS consulta CASCADE;
+CREATE TABLE IF NOT EXISTS consulta
+(
+	emailCliente "varchar",
+	nomeTutor "varchar",
+	nomePet "varchar",
+	raca "varchar",
+	dataConsulta "varchar",
+	horario "varchar",
+	motivo "varchar",
+	email "varchar",
+    PRIMARY KEY ("email"),
+	constraint fk_veterinario
+		foreign key(email)
+			references veterinario(email)
+);
+
+insert into veterinario values ('jorge','jorge@gmail','asda','chefe', 12);
+insert into adm values ('caio','caio@gmail','123456','dono');
+insert into estoque values ('racao Pedgree', 123, 15);
+insert into estoque values ('mordedor', 20, 10);
+insert into estoque values ('Cama', 5, 150);
+insert into adocao values ('Branquinho', 'coelho');
+insert into adocao values ('Bicarbonato', 'gato');
 
 
 select * from cliente
@@ -86,3 +111,6 @@ select * from veterinario
 select * from adm
 select * from historico
 select * from pedido
+select * from estoque
+select * from consulta
+select * from adocao
