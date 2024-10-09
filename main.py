@@ -3,11 +3,13 @@ import os
 
 escolha = 0
 while(escolha == 0):
+    decisao = None
     decisao = input("Deseja realizar o login ou se cadastrar?")
     if decisao == "cadastrar":
         vet.cadastrar()
     elif decisao == "logar":
         escolha = vet.novo_login()
+        
 
 if escolha == 1:
     

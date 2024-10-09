@@ -120,7 +120,7 @@ def remover_adocao():
 
 def imprime_estoque(dados):
     for i in dados:
-        print(f"Produto: {i[0]}  \t quantidade: {i[1]} \t valor: {i[2]}")
+        print(f"Produto:{i[0]}\tquantidade:{i[1]}\t valor:{i[2]}")
 
 def verifica_adocao():
     select_script = f"select * from adocao order by nome; "
@@ -178,6 +178,7 @@ def novo_login():
         dados = cur.fetchall()
         retorno = 3
      elif escolha == "sair":
+        retorno = 0
         break
      if not dados:
         print('Cadastro não encontrado')
