@@ -9,9 +9,6 @@ conn = None
 cur = None
 email_geral = None
 
-# to do:menu veterinario
-#Func to do: 
-
 conn = psycopg2.connect(host=hostname, dbname=database, user=username, password=pwd,
                             port=port_id)  # funcao que estabelece conexao com o bd
 cur = conn.cursor()  # funcao para auxiliar nas operacoes sql
