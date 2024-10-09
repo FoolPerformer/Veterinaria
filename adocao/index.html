@@ -34,7 +34,7 @@
 			<div class="incio-wrapper" id="frameContainer1">
 				<div class="servios">Serviços</div>
 			</div>
-			<div class="produtos-wrapper" id ="frameContainer2"> 
+			<div class="produtos-wrapper" id="frameContainer2">
 				<div class="produtos">Produtos</div>
 			</div>
 			<div class="produtos-wrapper">
@@ -42,14 +42,17 @@
 			</div>
 			<div class="incio-wrapper" id="frameContainer4">
 				<div class="contato">Contato</div>
+
 			</div>
-			<div class="icbaseline-account-circle-parent" id="frameContainer5">
+			<div class="icbaseline-account-circle-parent" id="frameContainer6">
 				<div class="icbaseline-account-circle">
 					<img class="vector-icon1" alt="" src="Vector.svg">
-
 				</div>
-				<div class="login">Login</div>
+				<div class="login" >Login</div>
 			</div>
+
+
+
 			<img class="mdicart-outline-icon" alt="" src="mdicartoutline.svg">
 
 		</div>
@@ -274,20 +277,25 @@
 		});
 		}
 
-
+		var frameContainer3 = document.getElementById("frameContainer1");
+		if (frameContainer3) {
+		frameContainer3.addEventListener("click", function (e) {
+		window.location.href = "../servicos/index.html"; //servicos
+		});
+		}
 
 
 		var frameContainer2 = document.getElementById("frameContainer2"); //produtos
 		if (frameContainer2) {
-			frameContainer2.addEventListener("click", function (e) {
-				window.location.href = "../principal/index.htm";
-				var anchor = document.querySelector("[data-scroll-to='nossosServiosContainer']");
-				if (anchor) {
-					anchor.scrollIntoView({ "block": "start", "behavior": "smooth" })
-				}
-			});
+		frameContainer2.addEventListener("click", function (e) {
+		window.location.href = "../principal/index.htm";
+		var anchor = document.querySelector("[data-scroll-to='nossosServiosContainer']");
+		if (anchor) {
+		anchor.scrollIntoView({ "block": "start", "behavior": "smooth" })
 		}
-		
+		});
+		}
+
 
 		var frameContainer3 = document.getElementById("frameContainer3");
 		if (frameContainer3) {
@@ -296,19 +304,22 @@
 		});
 		}
 
-		var frameContainer5 = document.getElementById("frameContainer4");
-		if (frameContainer5) {
-			frameContainer5.addEventListener("click", function (e) {
-				window.location.href = "../consultas/index.html"; //consultas
-			});
+		var frameContainer4 = document.getElementById("frameContainer4");
+		if (frameContainer4) {
+		frameContainer4.addEventListener("click", function (e) {
+		window.location.href = "../consultas/index.html"; //consultas
+		});
 		}</script>
 
-		var frameContainer5 = document.getElementById("frameContainer5");
-		if (frameContainer5) {
-		frameContainer5.addEventListener("click", function (e) {
+		var frameContainer6 = document.getElementById("frameContainer6");
+		console.log('aaaaaa');
+		
+		if (frameContainer6) {
+		frameContainer6.addEventListener("click", function (e) {
 		window.location.href = "../login/index.html"; //login
 		});
 		}</script>
+
 </body>
 
 </html>
