@@ -50,48 +50,54 @@
       			<img class="mdicart-outline-icon" alt="" src="mdicartoutline.svg">
       			
     		</div>
-    		<div class="entrar-wrapper">
-      			<b class="entrar">Entrar</b>
-    		</div>
-    		<b class="login1">Login</b>
-    		<div class="e-mail-parent">
-      			<b class="e-mail">E-mail</b>
-      			<div class="e-mail-ou-nome-de-usurio-wrapper">
-        				<div class="e-mail-ou-nome">E-mail ou nome de usuário</div>
-      			</div>
-    		</div>
-    		<div class="senha-parent">
-      			<b class="e-mail">Senha</b>
-      			<div class="group-child">
-      			</div>
-    		</div>
-    		<div class="cadastrar-wrapper">
-      			<b class="entrar">Cadastrar</b>
-    		</div>
-    		<b class="cadastro-novo">Cadastro novo</b>
-    		<div class="nome-parent">
-      			<b class="e-mail">Nome</b>
-      			<div class="e-mail-ou-nome-de-usurio-wrapper">
-        				<div class="e-mail-ou-nome">Como podemos te chamar?</div>
-      			</div>
-    		</div>
-    		<div class="e-mail-group">
-      			<b class="e-mail">E-mail</b>
-      			<div class="e-mail-ou-nome-de-usurio-wrapper">
-        				<div class="e-mail-ou-nome">O que você mais usa</div>
-      			</div>
-    		</div>
-    		<div class="senha-group">
-      			<b class="e-mail">Senha</b>
-      			<div class="e-mail-ou-nome-de-usurio-wrapper">
-        				<div class="e-mail-ou-nome">Mínimo 8 dígitos</div>
-      			</div>
-    		</div>
-    		<div class="confirme-sua-senha-parent">
-      			<b class="e-mail">Confirme sua senha</b>
-      			<div class="group-child">
-      			</div>
-    		</div>
+			<form action="">
+				<b class="login1">Login</b>
+    			<div class="e-mail-parent">
+					<b class="e-mail">E-mail</b>
+					<div class="e-mail-ou-nome-de-usurio-wrapper">
+						<input type="email" id_email="email" name = "email" size="30" required style="width: 430px;height:40px;"/>
+					</div>
+    			</div>
+    			<div class="senha-parent">
+					<b class="e-mail">Senha</b>
+					<div class="group-child">
+						<input type="password" id_senha="pass" name="password" minlength="8" required style="width: 430px;height:40px;"/>
+					</div>
+    			</div>
+				<div class="entrar-wrapper">
+					  <button class="entrar" style="font-size:18pt" role="button">Entrar</button>
+				</div>
+			</form>
+    		<form action="">
+
+				<b class="cadastro-novo">Cadastro novo</b>
+				<div class="nome-parent">
+					<b class="e-mail">Nome</b>
+					<div class="e-mail-ou-nome-de-usurio-wrapper">
+						<input type="nome" id_nome="nome" name = "nome" size="30" required style="width: 430px;height:40px;"/>
+					</div>
+				</div>
+				<div class="e-mail-group">
+					<b class="e-mail">E-mail</b>
+					<div class="e-mail-ou-nome-de-usurio-wrapper">
+						<input type="email" id_email="email" name = "email" size="30" required style="width: 430px;height:40px;"/>
+					</div>
+				</div>
+				<div class="senha-group">
+					<b class="e-mail">Senha</b>
+					<div class="e-mail-ou-nome-de-usurio-wrapper">
+						<input type="password" id_senha="pass" name="password" minlength="8" required style="width: 430px;height:40px;"/>
+					</div>
+				</div>
+				<div class="confirme-sua-senha-parent">
+					<div class="group-child">
+						<input type="conpassword" id_consenha="conpass" name="conpassword" minlength="8" required style="width: 430px;height:40px;"/>
+					</div>
+				</div>
+				<div class="cadastrar-wrapper">
+					<button class="entrar" style="font-size:18pt" role="button">Cadastrar</button>
+				</div>
+			</form>
     		<div class="login01-item">
     		</div>
     		<div class="final">

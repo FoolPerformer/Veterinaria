@@ -143,6 +143,12 @@
 }
 .entrar {
     position: relative;
+    background-color: #f2c930;
+    border: none;
+}
+.entrar:hover,
+.entrar:focus {
+    background-color: #f2c930;
 }
 .entrar-wrapper {
     position: absolute;
