@@ -40,7 +40,7 @@
 			<div class="incio-wrapper" id="frameContainer3">
 				<div class="adoo">Adoção</div>
 			</div>
-			<div class="produtos-wrapper">
+			<div class="produtos-wrapper" id="frameContainer4">
 				<div class="contato">Contato</div>
 			</div>
 			<div class="icbaseline-account-circle-parent" id="frameContainer5">
@@ -199,6 +199,13 @@
 				window.location.href = "../adocao/index.html"; //adocao
 			});
 		}
+
+		var frameContainer5 = document.getElementById("frameContainer4");
+		if (frameContainer5) {
+			frameContainer5.addEventListener("click", function (e) {
+				window.location.href = "../consultas/index.html"; //consultas
+			});
+		}</script>
 
 		var frameContainer5 = document.getElementById("frameContainer5");
 		if (frameContainer5) {

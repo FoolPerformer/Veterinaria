@@ -96,6 +96,7 @@
     font-weight: 600;
     display: inline-block;
     flex-shrink: 0;
+    cursor: pointer;
 }
 .vector-icon1 {
     width: 21.3px;
