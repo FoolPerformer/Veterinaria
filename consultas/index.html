@@ -57,57 +57,66 @@
 		<div class="lorem-ipsum-dolor">Lorem ipsum dolor sit amet consectetur. Posuere tellus sit lectus aenean feugiat
 			nibh. Vel sed et odio risus euismod aliquet amet tincidunt sagittis. Et volutpat pellentesque duis eleifend
 			quam sed. Sollicitudin nec euismod at lorem amet laoreet. Lorem est sagittis metus elit. Varius.</div>
-		<div class="agendar-wrapper">
-			<b class="agendar">Agendar</b>
-		</div>
-		<div class="e-mail-parent">
-			<b class="e-mail">E-mail</b>
-			<div class="aquele-que-voc-mais-usa-wrapper">
-				<div class="aquele-que-voc">Aquele que você mais usa</div>
+		<form action="">
+			<div class="agendar-wrapper">
+				<button class="agendar_botao" style="font-size:18pt" role="button">Agendar</button>
 			</div>
-		</div>
-		<div class="data-parent">
-			<b class="e-mail">Data</b>
-			<div class="mdicalendar-today-parent">
-				<img class="mdicalendar-today-icon" alt="" src="mdi_calendartoday.svg">
+			<div class="e-mail-parent">
+				<b class="e-mail">E-mail</b>
+				<div class="aquele-que-voc-mais-usa-wrapper">
+					<input type="email" id_email="email" name="email" size="30" required
+									style="width: 430px;height:40px;" />
+				</div>
+			</div>
+			<div class="data-parent">
+				<b class="e-mail">Data</b>
+				<div class="mdicalendar-today-parent">
+					<img class="mdicalendar-today-icon" alt="" src="mdi_calendartoday.svg">
 
-				<div class="agendar">01/01/2024</div>
-				<img class="mdicalendar-today-icon" alt="" src="mdi_chevrondown.svg">
+					<div class="agendar">01/01/2024</div>
+					<img class="mdicalendar-today-icon" alt="" src="mdi_chevrondown.svg">
 
+				</div>
 			</div>
-		</div>
-		<div class="hora-parent">
-			<b class="e-mail">Hora</b>
-			<div class="mdiclock-outline-parent">
-				<img class="mdicalendar-today-icon" alt="" src="mdi_clockoutline.svg">
+			<div class="hora-parent">
+				<b class="e-mail">Hora</b>
+				<div class="mdiclock-outline-parent">
+					<img class="mdicalendar-today-icon" alt="" src="mdi_clockoutline.svg">
 
-				<div class="agendar">12:00</div>
-				<img class="mdicalendar-today-icon" alt="" src="mdi_chevrondown.svg">
+					<div class="agendar">12:00</div>
+					<img class="mdicalendar-today-icon" alt="" src="mdi_chevrondown.svg">
 
+				</div>
 			</div>
-		</div>
-		<div class="razo-da-consulta-parent">
-			<b class="e-mail">Razão da consulta</b>
-			<div class="consulta-de-rotina-avaliao-wrapper">
-				<div class="consulta-de-rotina">Consulta de rotina, avaliação ou outra</div>
+			<div class="razo-da-consulta-parent">
+				<b class="e-mail">Razão da consulta</b>
+				<div class="consulta-de-rotina-avaliao-wrapper">
+					<input type="razao" id_razao="razao" name="razao" size="30" required
+									style="width: 430px;height:138px" />
+				</div>
 			</div>
-		</div>
-		<div class="nome-do-tutor-parent">
-			<b class="nome-do-tutor">Nome do tutor</b>
-			<div class="aquele-que-voc-mais-usa-wrapper">
-				<div class="aquele-que-voc">Como podemos te chamar?</div>
+			<div class="nome-do-tutor-parent">
+				<b class="nome-do-tutor">Nome do tutor</b>
+				<div class="aquele-que-voc-mais-usa-wrapper">
+					<input type="nomeTutor" id_nomeTutor="nomeTutor" name="nomeTutor" size="30" required
+									style="width: 430px;height:40px;" />
+				</div>
 			</div>
-		</div>
-		<div class="nome-do-pet-parent">
-			<b class="nome-do-pet">Nome do pet</b>
-			<div class="group-child">
+			<div class="nome-do-pet-parent">
+				<b class="nome-do-pet">Nome do pet</b>
+				<div class="group-child">
+					<input type="nomePet" id_nomePet="nomePet" name="nomePet" size="30" required
+					style="width: 430px;height:40px;" />
+				</div>
 			</div>
-		</div>
-		<div class="raa-parent">
-			<b class="nome-do-pet">Raça</b>
-			<div class="group-child">
+			<div class="raa-parent">
+				<b class="nome-do-pet">Raça</b>
+				<div class="group-child">
+					<input type="raca" id_raca="raca" name="raca" size="30" required
+								style="width: 430px;height:40px;" />
+				</div>
 			</div>
-		</div>
+		</form>	
 		<div class="final">
 			<div class="final-child">
 			</div>

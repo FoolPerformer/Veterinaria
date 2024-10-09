@@ -165,6 +165,18 @@
 .agendar {
     position: relative;
 }
+
+.agendar_botao {
+    position: relative;
+    background-color: #f2c930;
+    border: none;
+}
+
+.agendar_botao:hover,
+.agendar_botao:focus {
+    background-color: #f2c930;
+}
+
 .agendar-wrapper {
     position: absolute;
     top: 873px;
